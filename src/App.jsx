@@ -1,9 +1,9 @@
 import "./styles.css"
-export default function App()
+export default function()
 {
-  return (
+  return(
     <>
-      Hi
+      
     </>
   );
 }
